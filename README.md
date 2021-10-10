@@ -14,9 +14,9 @@
      
      
 -Connect with me on :
-[![GitHub](icons/github.png)](https://github.com/Nipun-Das)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/nipun-das-74628b206/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/nipun.das_/)
+[![GitHub](images/github.svg)](https://github.com/Nipun-Das)
+[![LinkedIn](images/linkedin.png)](https://www.linkedin.com/in/nipun-das-74628b206/)
+[![Instagram](images/instagram.png)](https://www.instagram.com/nipun.das_/)
 
 
 
