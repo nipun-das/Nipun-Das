@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m Nipun Das.
-
+<hr>
 
 ### <h3 align="left">GitHub Stats</h3>
 <a href="">
@@ -8,7 +8,7 @@
 <a />
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nipun-Das&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
-     
+ <hr>    
      
 ### Connect :
  <a href="https://www.linkedin.com/in/nipun-das-74628b206/"><img alt="GitHub" height="75" width="45" src="images/linkedinn.svg">&nbsp;&nbsp;</a>
