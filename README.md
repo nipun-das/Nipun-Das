@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m Nipun Das.
+
+![Header image](https://raw.githubusercontent.com/Nipun-Das/Nipun-Das/main/images/Header_Image.png)
 <hr>
 
 ### <h3 align="left">GitHub Stats</h3>
