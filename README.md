@@ -10,7 +10,7 @@
 <a/>
 
 <!-- Top Langs -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nipun-Das&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)</br></br></br></br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nipun-Das&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)</br></br></br>
 <hr>     
 
 <!-- Connect -->
