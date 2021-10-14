@@ -1,5 +1,7 @@
-![Header image](https://raw.githubusercontent.com/Nipun-Das/Nipun-Das/main/images/Header_Image.png)
-<hr>
+<!-- ![Header image](https://raw.githubusercontent.com/Nipun-Das/Nipun-Das/main/images/Header_Image.png)
+<hr> -->
+
+<img src="https://raw.githubusercontent.com/Nipun-Das/Nipun-Das/main/images/Header_Image.png" width="900"/>
 
 ### <h3 align="left">GitHub Stats</h3>
 <a href="">
