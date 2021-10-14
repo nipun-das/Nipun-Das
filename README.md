@@ -17,7 +17,7 @@
 ### <h3 align="middle">Connect :</h3>
 <p align="center">
  <a href="https://www.linkedin.com/in/nipun-das-74628b206/"><img alt="GitHub" height="75" width="39" src="images/linkedinn.svg">&nbsp;&nbsp;</a>
- <a href="https://github.com/Nipun-Das"><img alt="GitHub" height="75" width="45" src="images/github.svg">&nbsp;&nbsp;</a>
+ <a href="https://github.com/Nipun-Das"><img alt="GitHub" height="75" width="45" src="images/githubb.svg">&nbsp;&nbsp;</a>
  <a href="https://www.instagram.com/nipun.das_/"><img alt="GitHub" height="75" width="45" src="images/insta.svg">&nbsp;&nbsp;</a>
 </p>   
 
