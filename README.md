@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Header image](https://raw.githubusercontent.com/Nipun-Das/Nipun-Das/main/images/Header_Image.png)
 <hr>
 
