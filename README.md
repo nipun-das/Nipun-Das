@@ -21,7 +21,7 @@
   <img width="39" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp;&nbsp;
   <img width="43" src="images/icons8-c-programming-48.png" />&nbsp;&nbsp;&nbsp;
   <img width="23" src="images/figma-1-logo-png-transparent.png" />&nbsp;&nbsp;&nbsp;
-  <img width="33" src="images/Kotlin_logo.png" />
+  <img width="32" src="images/Kotlin_logo.png" />
   
 </p>   
 <hr>
