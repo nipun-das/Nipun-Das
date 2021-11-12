@@ -33,8 +33,8 @@
 ### <h3 align="middle">Connect with me :</h3>
 <p align="center">
  <a href="https://www.linkedin.com/in/nipun-das-74628b206/"><img alt="GitHub" height="75" width="39" src="images/linkedinn.svg">&nbsp;&nbsp;</a>
-<!--  <a href="https://github.com/Nipun-Das"><img alt="GitHub" height="75" width="44" src="images/githubbb.svg">&nbsp;&nbsp;</a> -->
- <a href="https://www.instagram.com/nipun.das_/"><img alt="GitHub" height="75" width="51" src="images/insta.svg"></a>
+ <a href="https://www.instagram.com/nipun.das_/"><img alt="GitHub" height="75" width="51" src="images/insta.svg">&nbsp;&nbsp;</a>
+ <a href="https://twitter.com/nipundas_10/"><img alt="Twitter" height="77" width="51" src="images/twi.svg"></a>
 </p>   
 
 
