@@ -15,14 +15,14 @@
 
 <!-- Languages and Tools -->
 ### <h3 align="middle">Languages and Tools :</h3></br>
-<p align="center">
+<!-- <p align="center">
   <img width="43" src="images/icons8-c-programming-48.png" />&nbsp;&nbsp;&nbsp;
   <img width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp;&nbsp;
   <img width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />&nbsp;&nbsp;
   <img width="39" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp;&nbsp;
   <img width="23" src="images/figma-1-logo-png-transparent.png" />&nbsp;&nbsp;&nbsp;
   <img width="33" src="images/Kotlin_logo.png" />&nbsp;&nbsp;&nbsp;
-  <img width="39" src="images/icons8-android-studio-48.png" />
+  <img width="39" src="images/icons8-android-studio-48.png" /> -->
   
   
   
