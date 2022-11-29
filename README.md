@@ -5,15 +5,15 @@
 <hr>
 
 <!-- GitHub Stats -->
-### <h3 align="middle">GitHub Stats :</h3></br>
+<!-- ### <h3 align="middle">GitHub Stats :</h3></br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nipun-Das&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a/>
+<a/> -->
 
 <!-- Top Langs -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nipun-Das&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)</br></br></br>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nipun-Das&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)</br></br></br> -->
 
 </p>   
-<hr>
+
 
 <!-- Connect -->
 ### <h3 align="middle">Connect with me :</h3>
