@@ -7,15 +7,19 @@
 </p>   
 <p align="center">
 <a href="https://github.com/nipun-das/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nipun-das&theme=default&show_icons=true&hide=issues,contribs" />
+  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs?username=nipun-das&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/nipun-das />
 </a>
 <a href="https://github.com/nipun-das/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipun-das&layout=compact&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nipun-das&theme=algolia&show_icons=true)](https://github.com/nipun-das" />
 </a>
 
-<p align="center""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipun-das&" alt="nipun-das" /></p>
+<!-- <p align="center""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipun-das&" alt="nipun-das" /></p> -->
 </p>
 
+                                                                                                                            
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
 
 
 <!-- Connect -->
